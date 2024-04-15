@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .contact-info {
+    font-weight: bold;
+  }
+  
+  .volunteer-heading {
+    color: #009688;
+  }
+  
+  .education-heading {
+    color: #2196F3;
+  }
+  
+  .extracurricular-heading {
+    color: #FF9800;
+  }
+  
+  .awards-heading {
+    color: #E91E63;
+  }
+  
